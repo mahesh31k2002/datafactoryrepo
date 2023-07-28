@@ -1,0 +1,9 @@
+{
+	"name": "datafactorypractice102",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9709ccd-b7f4-4d16-856d-3fc520f6839c",
+		"tenantId": "8aee960b-d49d-4aff-9e33-60f5cd38d272"
+	}
+}
